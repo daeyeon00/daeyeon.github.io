@@ -4,12 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Daeyeon Kim. I'm currently an undergraduate student at Seoul National University (SNU). Starting 2025 spring semester, I'm joining KAIST ME as a M.S. student. My prospective advisor is Prof. Donguk Nam.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Academically I am interested in photonic quantum simulator and aim to research about photonic quantum devices.
 
-What else do you need?
 
 ### My story
 
